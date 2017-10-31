@@ -3,8 +3,6 @@ Mr. Crab's Music Archives
 
 > Welcome to Mr. Crab's Archives! Here you can find some of my tunes, feat. solos and home demos I've made for different projects during last couple of years. I'll be also posting some guitar lessons in the [Lessons](./lessons.md) section that I've originally made for my guitar students.
 
-Follow me on Twitter for occasional music and OS X related nonsense. [gimmick:TwitterFollow](@fatmrcrab)
-
 Fat Batman
 ----------
 
@@ -50,8 +48,3 @@ These three songs were composed for demoing Hughes & Kettner Coreblade amp & DBZ
 **3rd song - thrash metal?**
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176604377&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Feedback & Comments
--------------------
-
-[gimmick:Disqus](gtrrt)

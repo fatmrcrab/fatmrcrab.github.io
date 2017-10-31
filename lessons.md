@@ -15,8 +15,3 @@ I wrote couple of columns to Finnish guitar magazine called GuitarFan between 20
 Sweep picking exercise published in Guitarfan 3/2007? issue.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/238663978&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Feedback & Comments
--------------------
-
-[gimmick:Disqus](gtrrt)
